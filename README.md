@@ -3,9 +3,9 @@
 
 Project tiền xử lý đối với bộ dữ liệu Kvasir-SEG - Bộ dữ liệu Kvasir-SEG  bao gồm 1000 ảnh polyp và label tương ứng từ bộ dữ liệu Kvasir Dataset v2. Kích thước hình ảnh trong Kvasir-SEG thay đổi từ 332x487 đến 1920x1072 pixel. Các tệp hình ảnh và mask tương ứng được lưu trữ trong hai thư mục images/masks với cùng tên tệp. Các tệp hình ảnh được lưu dưới dạng file JPEG.
 
-- Link tải bộ dữ liệu [Kvasir-SEG]("https://datasets.simula.no/downloads/kvasir-seg.zip")
+- Link tải bộ dữ liệu [Kvasir-SEG](https://datasets.simula.no/downloads/kvasir-seg.zip)
 
-- Link dữ liệu Kaggle [Kvasir-SEG-Kaggle]("https://www.kaggle.com/datasets/ipythonx/kvasirseg/data")
+- Link dữ liệu Kaggle [Kvasir-SEG-Kaggle](https://www.kaggle.com/datasets/ipythonx/kvasirseg/data)
 ## 🧐 Tiền xử lý dữ liệu
 
 ### Các bước tiền xử lý dữ liệu
